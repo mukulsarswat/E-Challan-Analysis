@@ -3,6 +3,7 @@
 This repository contains Python scripts for analyzing **daily e-challan data** using `pandas` and `numpy`. The goal is to explore traffic challan records, compute meaningful ratios, detect outliers, and summarize key insights such as revenue, disposal rates, and growth trends.
 
 ---
+## COLAB --> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17yY_7bIJvFJpNVGXpI9CerrGvWx8JTgY?usp=sharing)
 
 ## 🚀 Features
 
